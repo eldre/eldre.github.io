@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research profile of Elliot Dreujou</title>
+    <title>Academic CV of Elliot Dreujou</title>
     <link>https://eldre.github.io/authors/eldre/</link>
-    <description>Recent content on Research profile of Elliot Dreujou</description>
+    <description>Recent content on Academic CV of Elliot Dreujou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
+    <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/authors/eldre/index.xml" rel="self" type="application/rss+xml" />
     
@@ -84,7 +85,7 @@
     </item>
     
     <item>
-      <title>Étude des impacts individuels et cumulés de stresseurs anthropiques sur les écosystèmes de la région de Sept-Îles</title>
+      <title>Study of indiviual and cumulative impacts of anthropogenic stressors on the ecosystems of Sept-Îles</title>
       <link>https://eldre.github.io/talk/poster_3_qo/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
@@ -113,12 +114,12 @@
     <item>
       <title></title>
       <link>https://eldre.github.io/authors/eldre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/authors/eldre/</guid>
       <description>&lt;p&gt;I am a junior researcher in Oceanography. My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.&lt;/p&gt;
 
-&lt;p&gt;I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working in the Benthic Ecology Laboratory, lead by Philippe Archambault, at Université Laval in Québec (Canada).&lt;/p&gt;
+&lt;p&gt;I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working in the Benthic Ecology Laboratory, lead by Philippe Archambault, at Université Laval (Québec, Canada).&lt;/p&gt;
 </description>
     </item>
     
