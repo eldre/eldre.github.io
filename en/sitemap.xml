@@ -188,8 +188,71 @@
   </url>
   
   <url>
-    <loc>https://eldre.github.io/authors/laurence-paquette/</loc>
+    <loc>https://eldre.github.io/publication/book_2_bsi/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/publication/book_2_bsi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/publication/book_2_bsi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/authors/genevi%C3%A8ve-faille/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/genevi%C3%A8ve-faille/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/genevi%C3%A8ve-faille/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/authors/jean-carlos-montero-serrano/</loc>
+    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/jean-carlos-montero-serrano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/jean-carlos-montero-serrano/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/authors/julie-carri%C3%A8re/</loc>
+    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/julie-carri%C3%A8re/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/julie-carri%C3%A8re/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/authors/laurence-paquette/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -216,6 +279,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://eldre.github.io/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/authors/richard-st-louis/</loc>
+    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/richard-st-louis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/richard-st-louis/"
                 />
   </url>
   
