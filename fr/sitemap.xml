@@ -3,39 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eldre.github.io/fr/</loc>
-    <lastmod>2019-07-31T13:56:22-04:00</lastmod>
+    <loc>https://eldre.github.io/fr/authors/aur%C3%A9lie-foveau/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/"
+                href="https://eldre.github.io/authors/aur%C3%A9lie-foveau/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/fr/privacy/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/privacy/"
+                href="https://eldre.github.io/fr/authors/aur%C3%A9lie-foveau/"
                 />
   </url>
   
   <url>
     <loc>https://eldre.github.io/fr/authors/</loc>
-    <lastmod>2019-07-31T13:56:22-04:00</lastmod>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -51,7 +36,7 @@
   
   <url>
     <loc>https://eldre.github.io/fr/tags/benthos/</loc>
-    <lastmod>2019-07-31T13:56:22-04:00</lastmod>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -62,6 +47,128 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://eldre.github.io/fr/tags/benthos/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/talk/talk_5_cheeers/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/talk/talk_5_cheeers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/talk/talk_5_cheeers/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/authors/natalie-ban/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/natalie-ban/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/natalie-ban/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/authors/nicolas-desroy/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/nicolas-desroy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/nicolas-desroy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/tags/pressions-anthropiques/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/tags/pr%C3%A9diction/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/tags/sept-%C3%AEles/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/tags/sept-%C3%AEles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/tags/sept-%C3%AEles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/tags/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eldre.github.io/fr/privacy/</loc>
+    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/privacy/"
                 />
   </url>
   
@@ -100,44 +207,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://eldre.github.io/fr/authors/lisa-tr%C3%A9au-de-coeli/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/fr/tags/pressions-anthropiques/</loc>
-    <lastmod>2019-07-31T13:56:22-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/fr/tags/sept-%C3%AEles/</loc>
-    <lastmod>2019-07-31T13:56:22-04:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/tags/sept-%C3%AEles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/tags/sept-%C3%AEles/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/fr/tags/</loc>
-    <lastmod>2019-07-31T13:56:22-04:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/tags/"
                 />
   </url>
   
@@ -299,22 +368,6 @@
   </url>
   
   <url>
-    <loc>https://eldre.github.io/fr/authors/aur%C3%A9lie-foveau/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/aur%C3%A9lie-foveau/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/aur%C3%A9lie-foveau/"
-                />
-  </url>
-  
-  <url>
     <loc>https://eldre.github.io/fr/tags/indicateurs/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
     <priority>0</priority>
@@ -333,28 +386,6 @@
                 hreflang="fr"
                 href="https://eldre.github.io/fr/talk/poster_6_chone/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/fr/authors/nicolas-desroy/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/nicolas-desroy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/nicolas-desroy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/fr/tags/pr%C3%A9diction/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
