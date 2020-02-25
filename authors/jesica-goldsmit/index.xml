@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesica Goldsmit on Online CV</title>
+    <title>Jesica Goldsmit on Curriculum Vitae</title>
     <link>https://eldre.github.io/authors/jesica-goldsmit/</link>
-    <description>Recent content in Jesica Goldsmit on Online CV</description>
+    <description>Recent content in Jesica Goldsmit on Curriculum Vitae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Tue, 10 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/authors/jesica-goldsmit/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Holistic Environmental Approaches and Aichi Biodiversity Targets: accomplishments and perspectives for marine ecosystems</title>
+      <link>https://eldre.github.io/publication/article_1_peerj/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/publication/article_1_peerj/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cost-benefit analysis of two sampling methods for the study of arctic marine macrobenthos</title>

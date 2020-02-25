@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Online CV</title>
+    <title>Curriculum Vitae</title>
     <link>https://eldre.github.io/</link>
-    <description>Recent content on Online CV</description>
+    <description>Recent content on Curriculum Vitae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Holistic Environmental Approaches and Aichi Biodiversity Targets: accomplishments and perspectives for marine ecosystems</title>
+      <link>https://eldre.github.io/publication/article_1_peerj/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/publication/article_1_peerj/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to characterize human influence on coastal benthic ecosystems?</title>

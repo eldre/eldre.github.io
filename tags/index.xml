@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Online CV</title>
+    <title>Tags on Curriculum Vitae</title>
     <link>https://eldre.github.io/tags/</link>
-    <description>Recent content in Tags on Online CV</description>
+    <description>Recent content in Tags on Curriculum Vitae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Literature review</title>
+      <link>https://eldre.github.io/tags/literature-review/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/tags/literature-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspectives</title>
+      <link>https://eldre.github.io/tags/perspectives/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/tags/perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Priorities</title>
+      <link>https://eldre.github.io/tags/research-priorities/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/tags/research-priorities/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anthropogenic drivers</title>

@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on CV en ligne</title>
+    <title>Tags on Curriculum Vitae</title>
     <link>https://eldre.github.io/fr/tags/</link>
-    <description>Recent content in Tags on CV en ligne</description>
+    <description>Recent content in Tags on Curriculum Vitae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>fr-FR</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perspectives</title>
+      <link>https://eldre.github.io/fr/tags/perspectives/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priorités de recherche</title>
+      <link>https://eldre.github.io/fr/tags/priorit%C3%A9s-de-recherche/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/priorit%C3%A9s-de-recherche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revue de littérature</title>
+      <link>https://eldre.github.io/fr/tags/revue-de-litt%C3%A9rature/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/revue-de-litt%C3%A9rature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benthos</title>

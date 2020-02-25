@@ -1,16 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on CV en ligne</title>
+    <title>Authors on Curriculum Vitae</title>
     <link>https://eldre.github.io/fr/authors/</link>
-    <description>Recent content in Authors on CV en ligne</description>
+    <description>Recent content in Authors on Curriculum Vitae</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>fr-FR</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/fr/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Charlotte Carrier-Belleau</title>
+      <link>https://eldre.github.io/fr/authors/charlotte-carrier-belleau/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/charlotte-carrier-belleau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dario Fiorentino</title>
+      <link>https://eldre.github.io/fr/authors/dario-fiorentino/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/dario-fiorentino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Beauchesne</title>
+      <link>https://eldre.github.io/fr/authors/david-beauchesne/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/david-beauchesne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasmin A. Godbold</title>
+      <link>https://eldre.github.io/fr/authors/jasmin-a.-godbold/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/jasmin-a.-godbold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesica Goldsmit</title>
+      <link>https://eldre.github.io/fr/authors/jesica-goldsmit/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/jesica-goldsmit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose H. Muelbert</title>
+      <link>https://eldre.github.io/fr/authors/jose-h.-muelbert/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/jose-h.-muelbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radhouane Ben-Hamadou</title>
+      <link>https://eldre.github.io/fr/authors/radhouane-ben-hamadou/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/radhouane-ben-hamadou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rémi M. Daigle</title>
+      <link>https://eldre.github.io/fr/authors/r%C3%A9mi-m.-daigle/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/r%C3%A9mi-m.-daigle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aurélie Foveau</title>
@@ -99,15 +171,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/fr/authors/richard-st-louis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jesica Goldsmit</title>
-      <link>https://eldre.github.io/fr/authors/jesica-goldsmit/</link>
-      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/authors/jesica-goldsmit/</guid>
       <description></description>
     </item>
     
