@@ -7,10 +7,64 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>fr-FR</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anthropogenic drivers</title>
+      <link>https://eldre.github.io/fr/tags/anthropogenic-drivers/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/anthropogenic-drivers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benthos</title>
+      <link>https://eldre.github.io/fr/tags/benthos/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/benthos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization</title>
+      <link>https://eldre.github.io/fr/tags/characterization/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/characterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indicators</title>
+      <link>https://eldre.github.io/fr/tags/indicators/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/indicators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction</title>
+      <link>https://eldre.github.io/fr/tags/prediction/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sept-Îles</title>
+      <link>https://eldre.github.io/fr/tags/sept-%C3%AEles/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/sept-%C3%AEles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perspectives</title>
@@ -40,15 +94,6 @@
     </item>
     
     <item>
-      <title>Benthos</title>
-      <link>https://eldre.github.io/fr/tags/benthos/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/tags/benthos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pressions anthropiques</title>
       <link>https://eldre.github.io/fr/tags/pressions-anthropiques/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
@@ -63,15 +108,6 @@
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/fr/tags/pr%C3%A9diction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sept-Îles</title>
-      <link>https://eldre.github.io/fr/tags/sept-%C3%AEles/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/tags/sept-%C3%AEles/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Charlotte Carrier-Belleau</title>
       <link>https://eldre.github.io/authors/charlotte-carrier-belleau/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/authors/charlotte-carrier-belleau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filippo Ferrario</title>
+      <link>https://eldre.github.io/authors/filippo-ferrario/</link>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/authors/filippo-ferrario/</guid>
       <description></description>
     </item>
     
