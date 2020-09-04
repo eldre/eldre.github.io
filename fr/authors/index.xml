@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>fr-FR</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/fr/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cindy Grant</title>
+      <link>https://eldre.github.io/fr/authors/cindy-grant/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/cindy-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisa Tréau de Coeli</title>
+      <link>https://eldre.github.io/fr/authors/lisa-tr%C3%A9au-de-coeli/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/lisa-tr%C3%A9au-de-coeli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard St-Louis</title>
+      <link>https://eldre.github.io/fr/authors/richard-st-louis/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/authors/richard-st-louis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Charlotte Carrier-Belleau</title>
@@ -121,24 +148,6 @@
     </item>
     
     <item>
-      <title>Cindy Grant</title>
-      <link>https://eldre.github.io/fr/authors/cindy-grant/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/authors/cindy-grant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lisa Tréau de Coeli</title>
-      <link>https://eldre.github.io/fr/authors/lisa-tr%C3%A9au-de-coeli/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/authors/lisa-tr%C3%A9au-de-coeli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Geneviève Faille</title>
       <link>https://eldre.github.io/fr/authors/genevi%C3%A8ve-faille/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -171,15 +180,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/fr/authors/laurence-paquette/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Richard St-Louis</title>
-      <link>https://eldre.github.io/fr/authors/richard-st-louis/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/authors/richard-st-louis/</guid>
       <description></description>
     </item>
     
@@ -254,7 +254,6 @@
       
       <guid>https://eldre.github.io/fr/authors/eldre/</guid>
       <description>&lt;p&gt;Je suis étudiant en océanographie. Mes principales activités de recherche consistent à étudier les écosystèmes marins, en particulier afin de savoir comment les écosystèmes benthiques (fond marins côtiers et profonds) et les activités humaines interagissent.&lt;/p&gt;
-
 &lt;p&gt;Je m&amp;rsquo;intéresse principalement à l&amp;rsquo;endofaune marine, mais aussi aux micro- et macroalgues. Je travaille actuellement au Laboratoire d&amp;rsquo;Écologie Benthique, dirigé par Philippe Archambault, à l&amp;rsquo;Université Laval (Québec, Canada).&lt;/p&gt;
 </description>
     </item>

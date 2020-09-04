@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/tags/characterization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biodiversity and Habitat Assessment of Coastal Benthic Communities in a Sub-Arctic Industrial Harbor Area</title>
+      <link>https://eldre.github.io/publication/article_2_water/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/publication/article_2_water/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>État des écosystèmes benthiques dans la baie de Sept-Îles</title>
@@ -73,15 +82,12 @@
       
       <guid>https://eldre.github.io/project/phd/</guid>
       <description>&lt;p&gt;This PhD project is centered on three chapters:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;characterize infaunal communities and sediment parameters in benthic ecosystems around Sept-Îles (Canada)&lt;/li&gt;
 &lt;li&gt;evaluate which are the individual and cumulative impacts of human activities on this ecosystems&lt;/li&gt;
 &lt;li&gt;develop ecological indicators to assess the Environmental Status in regard to cumulative impacts&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;p&gt;We selected the region of Sept-Îles in Québec, where numerous human activities vary in local intensity (&lt;em&gt;e.g.&lt;/em&gt; international shipping, fisheries, city and industrial waste waters).&lt;/p&gt;
-
 &lt;p&gt;Data gathered during this project include benthic infaunal communities composition, sediment abiotic parameters (&lt;em&gt;e.g.&lt;/em&gt; organic matter, grain-size, heavy-metals), and spatial distribution of selected human activities.&lt;/p&gt;
 </description>
     </item>
