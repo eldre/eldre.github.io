@@ -7,26 +7,35 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>fr-FR</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/fr/authors/julie-carri%C3%A8re/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Determining the ecological status of benthic coastal communities: A case in an anthropized sub-arctic area</title>
+      <link>https://eldre.github.io/fr/publication/article_2021_frontiers/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/publication/article_2021_frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chapitre 4 - Qualité des sédiments</title>
-      <link>https://eldre.github.io/fr/publication/book_1_bsi/</link>
+      <link>https://eldre.github.io/fr/publication/book_2018_bsi1/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://eldre.github.io/fr/publication/book_1_bsi/</guid>
+      <guid>https://eldre.github.io/fr/publication/book_2018_bsi1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapitre 5 - Caractérisation de la faune benthique</title>
-      <link>https://eldre.github.io/fr/publication/book_2_bsi/</link>
+      <link>https://eldre.github.io/fr/publication/book_2018_bsi2/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://eldre.github.io/fr/publication/book_2_bsi/</guid>
+      <guid>https://eldre.github.io/fr/publication/book_2018_bsi2/</guid>
       <description></description>
     </item>
     

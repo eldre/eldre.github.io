@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Julie Carrière</title>
+      <link>https://eldre.github.io/authors/julie-carri%C3%A8re/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/authors/julie-carri%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisa Tréau de Coeli</title>
+      <link>https://eldre.github.io/authors/lisa-tr%C3%A9au-de-coeli/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/authors/lisa-tr%C3%A9au-de-coeli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Desroy</title>
+      <link>https://eldre.github.io/authors/nicolas-desroy/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/authors/nicolas-desroy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cindy Grant</title>
@@ -18,15 +45,6 @@
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/authors/cindy-grant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lisa Tréau de Coeli</title>
-      <link>https://eldre.github.io/authors/lisa-tr%C3%A9au-de-coeli/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/authors/lisa-tr%C3%A9au-de-coeli/</guid>
       <description></description>
     </item>
     
@@ -139,15 +157,6 @@
     </item>
     
     <item>
-      <title>Nicolas Desroy</title>
-      <link>https://eldre.github.io/authors/nicolas-desroy/</link>
-      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/authors/nicolas-desroy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Geneviève Faille</title>
       <link>https://eldre.github.io/authors/genevi%C3%A8ve-faille/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -162,15 +171,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/authors/jean-carlos-montero-serrano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julie Carrière</title>
-      <link>https://eldre.github.io/authors/julie-carri%C3%A8re/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/authors/julie-carri%C3%A8re/</guid>
       <description></description>
     </item>
     
@@ -253,7 +253,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/authors/eldre/</guid>
-      <description>&lt;p&gt;I am a junior researcher in Oceanography. My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.&lt;/p&gt;
+      <description>&lt;p&gt;My main scientific activities consist on studing marine ecosystems, particularly how benthic ecosystems (coastal and deep seafloor) and mankind activities interact.&lt;/p&gt;
 &lt;p&gt;I am interested in marine infauna, but also micro- and macroalgae. Currently, I am working in the Benthic Ecology Laboratory, lead by Philippe Archambault, at Université Laval (Québec, Canada).&lt;/p&gt;
 </description>
     </item>

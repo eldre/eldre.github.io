@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://eldre.github.io/publication_types/2/</loc>
-    <lastmod>2020-09-03T21:18:36-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,11 +14,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/publication_types/2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,11 +27,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/tags/benthos/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -45,46 +40,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/tags/benthos/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/publication/article_2_water/</loc>
-    <lastmod>2020-09-03T21:18:36-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/publication/article_2_water/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/publication/article_2_water/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/characterization/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/cindy-grant/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/cindy-grant/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/cindy-grant/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -95,11 +53,38 @@
                 hreflang="en"
                 href="https://eldre.github.io/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://eldre.github.io/publication/article_2021_frontiers/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/publication/article_2021_frontiers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/publication/article_2021_frontiers/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/indicators/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/authors/julie-carri%C3%A8re/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/julie-carri%C3%A8re/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/julie-carri%C3%A8re/"
+                />
+  </url><url>
     <loc>https://eldre.github.io/authors/lisa-tr%C3%A9au-de-coeli/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -110,316 +95,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/lisa-tr%C3%A9au-de-coeli/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/publication_types/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/richard-st-louis/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/richard-st-louis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/richard-st-louis/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/sept-%C3%AEles/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/tags/sept-%C3%AEles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/tags/sept-%C3%AEles/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/anthropogenic-drivers/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/charlotte-carrier-belleau/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/charlotte-carrier-belleau/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/charlotte-carrier-belleau/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/filippo-ferrario/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/filippo-ferrario/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/filippo-ferrario/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/poster_7_qo/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/talk/poster_7_qo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/talk/poster_7_qo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/indicators/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/mesocosms/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/prediction/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/dario-fiorentino/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/dario-fiorentino/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/dario-fiorentino/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/david-beauchesne/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/david-beauchesne/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/david-beauchesne/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/publication/article_1_peerj/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/publication/article_1_peerj/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/publication/article_1_peerj/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/jasmin-a.-godbold/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/jasmin-a.-godbold/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/jasmin-a.-godbold/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/jesica-goldsmit/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/jesica-goldsmit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/jesica-goldsmit/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/jose-h.-muelbert/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/jose-h.-muelbert/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/jose-h.-muelbert/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/literature-review/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/perspectives/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/tags/perspectives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/tags/perspectives/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/radhouane-ben-hamadou/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/radhouane-ben-hamadou/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/radhouane-ben-hamadou/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/tags/research-priorities/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/r%C3%A9mi-m.-daigle/</loc>
-    <lastmod>2020-02-25T11:54:43-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/r%C3%A9mi-m.-daigle/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/r%C3%A9mi-m.-daigle/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/aur%C3%A9lie-foveau/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/aur%C3%A9lie-foveau/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/aur%C3%A9lie-foveau/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/talk_5_cheeers/</loc>
-    <lastmod>2020-01-31T18:04:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/natalie-ban/</loc>
-    <lastmod>2020-01-31T18:04:57-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/natalie-ban/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/natalie-ban/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/nicolas-desroy/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -430,9 +108,288 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/nicolas-desroy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://eldre.github.io/publication_types/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/publication_types/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/sept-%C3%AEles/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/tags/sept-%C3%AEles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/tags/sept-%C3%AEles/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/publication/article_2020_water/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/publication/article_2020_water/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/publication/article_2020_water/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/characterization/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/authors/cindy-grant/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/cindy-grant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/cindy-grant/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/richard-st-louis/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/richard-st-louis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/richard-st-louis/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/anthropogenic-drivers/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/authors/charlotte-carrier-belleau/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/charlotte-carrier-belleau/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/charlotte-carrier-belleau/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/filippo-ferrario/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/filippo-ferrario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/filippo-ferrario/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2020_qo/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/talk/poster_2020_qo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/talk/poster_2020_qo/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/mesocosms/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/tags/prediction/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/authors/dario-fiorentino/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/dario-fiorentino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/dario-fiorentino/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/david-beauchesne/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/david-beauchesne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/david-beauchesne/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/publication/article_2020_peerj/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/publication/article_2020_peerj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/publication/article_2020_peerj/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/jasmin-a.-godbold/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/jasmin-a.-godbold/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/jasmin-a.-godbold/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/jesica-goldsmit/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/jesica-goldsmit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/jesica-goldsmit/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/jose-h.-muelbert/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/jose-h.-muelbert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/jose-h.-muelbert/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/literature-review/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/tags/perspectives/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/tags/perspectives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/tags/perspectives/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/radhouane-ben-hamadou/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/radhouane-ben-hamadou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/radhouane-ben-hamadou/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/research-priorities/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/authors/r%C3%A9mi-m.-daigle/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/r%C3%A9mi-m.-daigle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/r%C3%A9mi-m.-daigle/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/aur%C3%A9lie-foveau/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/aur%C3%A9lie-foveau/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/aur%C3%A9lie-foveau/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/talk/talk_2019_cheeers/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/authors/natalie-ban/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/natalie-ban/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/natalie-ban/"
+                />
+  </url><url>
     <loc>https://eldre.github.io/privacy/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
     <xhtml:link
@@ -445,26 +402,22 @@
                 hreflang="en"
                 href="https://eldre.github.io/privacy/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/talk_4_cirsip/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/talk_2019_cirsip/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/talk_4_cirsip/"
+                href="https://eldre.github.io/fr/talk/talk_2019_cirsip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/talk_4_cirsip/"
+                href="https://eldre.github.io/talk/talk_2019_cirsip/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/publication_types/6/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -475,41 +428,35 @@
                 hreflang="en"
                 href="https://eldre.github.io/publication_types/6/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/publication/book_1_bsi/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/publication/book_2018_bsi1/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/publication/book_1_bsi/"
+                href="https://eldre.github.io/fr/publication/book_2018_bsi1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/publication/book_1_bsi/"
+                href="https://eldre.github.io/publication/book_2018_bsi1/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/publication/book_2_bsi/</loc>
-    <lastmod>2020-01-31T18:04:57-05:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/publication/book_2018_bsi2/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/publication/book_2_bsi/"
+                href="https://eldre.github.io/fr/publication/book_2018_bsi2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/publication/book_2_bsi/"
+                href="https://eldre.github.io/publication/book_2018_bsi2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/genevi%C3%A8ve-faille/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -520,11 +467,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/genevi%C3%A8ve-faille/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/jean-carlos-montero-serrano/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -535,26 +480,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/jean-carlos-montero-serrano/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/authors/julie-carri%C3%A8re/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/julie-carri%C3%A8re/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/julie-carri%C3%A8re/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/laurence-paquette/</loc>
-    <lastmod>2020-01-31T18:04:57-05:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -565,144 +493,120 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/laurence-paquette/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/poster_6_chone/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2018_chone/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/poster_6_chone/"
+                href="https://eldre.github.io/fr/talk/poster_2018_chone/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/poster_6_chone/"
+                href="https://eldre.github.io/talk/poster_2018_chone/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/poster_5_qo/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2018_qo/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/poster_5_qo/"
+                href="https://eldre.github.io/fr/talk/poster_2018_qo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/poster_5_qo/"
+                href="https://eldre.github.io/talk/poster_2018_qo/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/talk_3_wcmb/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/talk_2018_wcmb/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/talk_3_wcmb/"
+                href="https://eldre.github.io/fr/talk/talk_2018_wcmb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/talk_3_wcmb/"
+                href="https://eldre.github.io/talk/talk_2018_wcmb/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/talk_2_qo/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/talk_2017_qo/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/talk_2_qo/"
+                href="https://eldre.github.io/fr/talk/talk_2017_qo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/talk_2_qo/"
+                href="https://eldre.github.io/talk/talk_2017_qo/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/poster_4_chone/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2017_chone/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/poster_4_chone/"
+                href="https://eldre.github.io/fr/talk/poster_2017_chone/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/poster_4_chone/"
+                href="https://eldre.github.io/talk/poster_2017_chone/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/talk_1_ul/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/talk_2017_ul/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/talk_1_ul/"
+                href="https://eldre.github.io/fr/talk/talk_2017_ul/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/talk_1_ul/"
+                href="https://eldre.github.io/talk/talk_2017_ul/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/poster_3_qo/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2016_qo/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/poster_3_qo/"
+                href="https://eldre.github.io/fr/talk/poster_2016_qo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/poster_3_qo/"
+                href="https://eldre.github.io/talk/poster_2016_qo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/tags/arctic/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/poster_2_qo/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2015_qo/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/poster_2_qo/"
+                href="https://eldre.github.io/fr/talk/poster_2015_qo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/poster_2_qo/"
+                href="https://eldre.github.io/talk/poster_2015_qo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/tags/costs-benefits/</loc>
-    <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
     <loc>https://eldre.github.io/project/phd/</loc>
     <lastmod>2020-09-04T16:21:19-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/project/</loc>
     <lastmod>2020-09-04T16:21:19-04:00</lastmod>
     <xhtml:link
@@ -715,11 +619,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/project/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/d-barber/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -730,11 +632,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/d-barber/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/e-villarino/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -745,16 +645,12 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/e-villarino/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/tags/ecological-invasions/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
+  </url><url>
     <loc>https://eldre.github.io/authors/g-chust/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -765,11 +661,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/g-chust/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/g-liu/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -780,11 +674,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/g-liu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/j-lukovich/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -795,11 +687,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/j-lukovich/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/kimberly-howland/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -810,24 +700,20 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/kimberly-howland/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eldre.github.io/talk/poster_1_acfas/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2015_acfas/</loc>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://eldre.github.io/fr/talk/poster_1_acfas/"
+                href="https://eldre.github.io/fr/talk/poster_2015_acfas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eldre.github.io/talk/poster_1_acfas/"
+                href="https://eldre.github.io/talk/poster_2015_acfas/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/chrismck/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
     <xhtml:link
@@ -840,11 +726,9 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/chrismck/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/eldre/</loc>
-    <lastmod>2019-07-23T15:18:53-04:00</lastmod>
+    <lastmod>2021-04-07T14:12:59-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -855,9 +739,7 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/eldre/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/authors/philarch/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
     <xhtml:link
@@ -870,9 +752,7 @@
                 hreflang="en"
                 href="https://eldre.github.io/authors/philarch/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -884,9 +764,7 @@
                 hreflang="en"
                 href="https://eldre.github.io/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/talk/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
     <xhtml:link
@@ -899,9 +777,7 @@
                 hreflang="en"
                 href="https://eldre.github.io/talk/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/courses/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
     <xhtml:link
@@ -914,9 +790,7 @@
                 hreflang="en"
                 href="https://eldre.github.io/courses/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/post/</loc>
     <lastmod>2019-07-23T15:18:53-04:00</lastmod>
     <xhtml:link
@@ -929,9 +803,7 @@
                 hreflang="en"
                 href="https://eldre.github.io/post/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eldre.github.io/publication/</loc>
     <lastmod>2020-02-25T11:54:43-05:00</lastmod>
     <xhtml:link
@@ -945,5 +817,4 @@
                 href="https://eldre.github.io/publication/"
                 />
   </url>
-  
 </urlset>
