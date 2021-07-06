@@ -7,10 +7,21 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/tags/benthos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effects of environmental changes on the functioning of eelgrass meadows on Canadian coasts</title>
+      <link>https://eldre.github.io/project/2021_ismer/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/project/2021_ismer/</guid>
+      <description>&lt;p&gt;This postdoctoral project is focused on eelgrass meadows present on the coasts of the Gulf of St. Lawrence. The objective is to understand how environmental changes will impact the physiology of eelgrass as well as the functioning of the benthic species that reside there.&lt;/p&gt;
+&lt;p&gt;An experimental approach was chosen by placing samples from intertidal eelgrass meadows in Rimouski to incubate in tanks at the ISMER station. Many abiotic and biological parameters were collected to study productivity and functioning of the habitat. These data made it possible to train and validate predictive models, in order to determine the evolution of eelgrass meadows along various climate change scenarios.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Determining the ecological status of benthic coastal communities: A case in an anthropized sub-arctic area</title>
@@ -18,6 +29,15 @@
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/publication/article_2021_frontiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence des activités humaines sur les écosystèmes benthiques d’une zone industrialo-portuaire subarctique – Application d’indicateurs de statut écologique et prédiction de la structure des communautés</title>
+      <link>https://eldre.github.io/publication/thesis_2021_phd/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/publication/thesis_2021_phd/</guid>
       <description></description>
     </item>
     
@@ -139,7 +159,7 @@
     </item>
     
     <item>
-      <title>PhD Project</title>
+      <title>Human activities influence on benthic ecosystems within a sub-Arctic industrial harbour area</title>
       <link>https://eldre.github.io/project/phd/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
@@ -150,7 +170,7 @@
 &lt;li&gt;test ecological indicators to assess the Environmental Status in regard to cumulative impacts&lt;/li&gt;
 &lt;li&gt;evaluate the influence of human activities on these ecosystems&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;We selected the region of Sept-Îles in Québec, where numerous human activities vary in local intensity (&lt;em&gt;e.g.&lt;/em&gt; international shipping, fisheries, city and industrial waste waters).&lt;/p&gt;
+&lt;p&gt;I selected the region of Sept-Îles in Québec, where numerous human activities vary in local intensity (&lt;em&gt;e.g.&lt;/em&gt; international shipping, fisheries, city and industrial waste waters).&lt;/p&gt;
 &lt;p&gt;Data gathered during this project include benthic infaunal communities composition, sediment abiotic parameters (&lt;em&gt;e.g.&lt;/em&gt; organic matter, grain-size, heavy-metals), and spatial distribution of selected human activities.&lt;/p&gt;
 </description>
     </item>
