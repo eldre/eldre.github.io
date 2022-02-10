@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eldre.github.io/authors/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/"
+                />
+  </url><url>
     <loc>https://eldre.github.io/tags/benthos/</loc>
-    <lastmod>2021-08-27T11:17:59-04:00</lastmod>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -15,8 +28,11 @@
                 href="https://eldre.github.io/tags/benthos/"
                 />
   </url><url>
+    <loc>https://eldre.github.io/tags/biodiversity/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eldre.github.io/</loc>
-    <lastmod>2021-09-27T10:34:16-04:00</lastmod>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -29,7 +45,88 @@
                 />
   </url><url>
     <loc>https://eldre.github.io/tags/eelgrass/</loc>
-    <lastmod>2021-08-27T11:17:59-04:00</lastmod>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/authors/fanny-noisette/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/fanny-noisette/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/fanny-noisette/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/functioning/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2022_meopar/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/talk/poster_2022_meopar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/talk/poster_2022_meopar/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/authors/marie-pomme-presne-poissant/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/authors/marie-pomme-presne-poissant/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/authors/marie-pomme-presne-poissant/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/tags/traits/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/tags/traits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/tags/traits/"
+                />
+  </url><url>
+    <loc>https://eldre.github.io/talk/poster_2022_qo/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://eldre.github.io/fr/talk/poster_2022_qo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eldre.github.io/talk/poster_2022_qo/"
+                />
   </url><url>
     <loc>https://eldre.github.io/project/2021_ismer/</loc>
     <lastmod>2021-08-27T11:17:59-04:00</lastmod>
@@ -43,9 +140,6 @@
                 hreflang="en"
                 href="https://eldre.github.io/project/2021_ismer/"
                 />
-  </url><url>
-    <loc>https://eldre.github.io/tags/functioning/</loc>
-    <lastmod>2021-08-27T11:17:59-04:00</lastmod>
   </url><url>
     <loc>https://eldre.github.io/tags/prediction/</loc>
     <lastmod>2021-08-27T11:17:59-04:00</lastmod>
@@ -61,19 +155,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://eldre.github.io/project/"
-                />
-  </url><url>
-    <loc>https://eldre.github.io/tags/</loc>
-    <lastmod>2021-08-27T11:17:59-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/tags/"
                 />
   </url><url>
     <loc>https://eldre.github.io/publication_types/2/</loc>
@@ -104,19 +185,6 @@
   </url><url>
     <loc>https://eldre.github.io/tags/anthropogenic-drivers/</loc>
     <lastmod>2021-07-06T14:59:07-04:00</lastmod>
-  </url><url>
-    <loc>https://eldre.github.io/authors/</loc>
-    <lastmod>2021-09-27T10:34:16-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://eldre.github.io/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eldre.github.io/authors/"
-                />
   </url><url>
     <loc>https://eldre.github.io/tags/characterization/</loc>
     <lastmod>2021-07-06T14:59:07-04:00</lastmod>

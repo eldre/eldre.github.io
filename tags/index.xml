@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>Benthos</title>
       <link>https://eldre.github.io/tags/benthos/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/tags/benthos/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Biodiversity</title>
+      <link>https://eldre.github.io/tags/biodiversity/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/tags/biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eelgrass</title>
       <link>https://eldre.github.io/tags/eelgrass/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/tags/eelgrass/</guid>
       <description></description>
@@ -33,9 +42,18 @@
     <item>
       <title>Functioning</title>
       <link>https://eldre.github.io/tags/functioning/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/tags/functioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traits</title>
+      <link>https://eldre.github.io/tags/traits/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/tags/traits/</guid>
       <description></description>
     </item>
     
