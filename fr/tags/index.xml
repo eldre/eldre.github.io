@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>fr-FR</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caractérisation</title>
+      <link>https://eldre.github.io/fr/tags/caract%C3%A9risation/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/caract%C3%A9risation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidisciplinarité</title>
+      <link>https://eldre.github.io/fr/tags/multidisciplinarit%C3%A9/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/multidisciplinarit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pressions anthropiques</title>
+      <link>https://eldre.github.io/fr/tags/pressions-anthropiques/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/pressions-anthropiques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sept-Îles</title>
+      <link>https://eldre.github.io/fr/tags/sept-%C3%AEles/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/fr/tags/sept-%C3%AEles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benthos</title>
@@ -67,38 +103,11 @@
     </item>
     
     <item>
-      <title>Caractérisation</title>
-      <link>https://eldre.github.io/fr/tags/caract%C3%A9risation/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/tags/caract%C3%A9risation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Indicateurs</title>
       <link>https://eldre.github.io/fr/tags/indicateurs/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eldre.github.io/fr/tags/indicateurs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pressions anthropiques</title>
-      <link>https://eldre.github.io/fr/tags/pressions-anthropiques/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/tags/pressions-anthropiques/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sept-Îles</title>
-      <link>https://eldre.github.io/fr/tags/sept-%C3%AEles/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/fr/tags/sept-%C3%AEles/</guid>
       <description></description>
     </item>
     
