@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-GB</language>
     <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://eldre.github.io/tags/benthos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An exposure score to assess anthropogenic footprint on coastal ecosystems at the local scale</title>
+      <link>https://eldre.github.io/talk/talk_2022_bem/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eldre.github.io/talk/talk_2022_bem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linking functional traits and ecosystem functioning in a Canadian coastal eelgrass meadow</title>
