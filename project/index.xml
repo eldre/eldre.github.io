@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Research profile</title>
-    <link>https://eldre.github.io&#39;/project/</link>
-      <atom:link href="https://eldre.github.io'/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eldre.github.io/project/</link>
+      <atom:link href="https://eldre.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eldre.github.io&#39;/media/icon_hu147c6383fcf0be3a6d7028501f0746f8_66621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eldre.github.io/media/icon_hu147c6383fcf0be3a6d7028501f0746f8_66621_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://eldre.github.io&#39;/project/</link>
+      <link>https://eldre.github.io/project/</link>
     </image>
     
     <item>
       <title>Enviro-Actions preventive environmental management model</title>
-      <link>https://eldre.github.io&#39;/project/ea/</link>
+      <link>https://eldre.github.io/project/ea/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://eldre.github.io&#39;/project/ea/</guid>
+      <guid>https://eldre.github.io/project/ea/</guid>
       <description>&lt;p&gt;This project is buidling on the results of the Baie des Sept Îles Environmental Observatory, to create integrative monitoring methods for coastal ecosystems in industrial harbour areas.&lt;/p&gt;
 &lt;p&gt;Five steps have been established:&lt;/p&gt;
 &lt;ol&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Effects of environmental changes on the functioning of eelgrass meadows on Canadian coasts</title>
-      <link>https://eldre.github.io&#39;/project/seagrass/</link>
+      <link>https://eldre.github.io/project/seagrass/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://eldre.github.io&#39;/project/seagrass/</guid>
+      <guid>https://eldre.github.io/project/seagrass/</guid>
       <description>&lt;p&gt;This postdoctoral project is focused on eelgrass meadows present on the coasts of the Gulf of St. Lawrence. The objective is to understand how environmental changes will impact the physiology of eelgrass as well as the functioning of the benthic species that reside there.&lt;/p&gt;
 &lt;p&gt;An experimental approach was chosen by placing samples from intertidal eelgrass meadows in Rimouski to incubate in tanks at the ISMER station. Many abiotic and biological parameters were collected to study productivity and functioning of the habitat. These data made it possible to train and validate predictive models, in order to determine the evolution of eelgrass meadows along various climate change scenarios.&lt;/p&gt;
 </description>
@@ -41,9 +41,9 @@
     
     <item>
       <title>Human activities influence on benthic ecosystems within a sub-Arctic industrial harbour area</title>
-      <link>https://eldre.github.io&#39;/project/phd/</link>
+      <link>https://eldre.github.io/project/phd/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://eldre.github.io&#39;/project/phd/</guid>
+      <guid>https://eldre.github.io/project/phd/</guid>
       <description>&lt;p&gt;This project is structured on three chapters:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;characterize infaunal communities and sediment parameters in benthic ecosystems around Sept-Îles (Canada)&lt;/li&gt;

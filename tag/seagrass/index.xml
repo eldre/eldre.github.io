@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seagrass | Research profile</title>
-    <link>https://eldre.github.io&#39;/tag/seagrass/</link>
-      <atom:link href="https://eldre.github.io'/tag/seagrass/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://eldre.github.io/tag/seagrass/</link>
+      <atom:link href="https://eldre.github.io/tag/seagrass/index.xml" rel="self" type="application/rss+xml" />
     <description>Seagrass</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://eldre.github.io&#39;/media/icon_hu147c6383fcf0be3a6d7028501f0746f8_66621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://eldre.github.io/media/icon_hu147c6383fcf0be3a6d7028501f0746f8_66621_512x512_fill_lanczos_center_3.png</url>
       <title>Seagrass</title>
-      <link>https://eldre.github.io&#39;/tag/seagrass/</link>
+      <link>https://eldre.github.io/tag/seagrass/</link>
     </image>
     
     <item>
       <title>Effects of environmental changes on the functioning of eelgrass meadows on Canadian coasts</title>
-      <link>https://eldre.github.io&#39;/project/seagrass/</link>
+      <link>https://eldre.github.io/project/seagrass/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://eldre.github.io&#39;/project/seagrass/</guid>
+      <guid>https://eldre.github.io/project/seagrass/</guid>
       <description>&lt;p&gt;This postdoctoral project is focused on eelgrass meadows present on the coasts of the Gulf of St. Lawrence. The objective is to understand how environmental changes will impact the physiology of eelgrass as well as the functioning of the benthic species that reside there.&lt;/p&gt;
 &lt;p&gt;An experimental approach was chosen by placing samples from intertidal eelgrass meadows in Rimouski to incubate in tanks at the ISMER station. Many abiotic and biological parameters were collected to study productivity and functioning of the habitat. These data made it possible to train and validate predictive models, in order to determine the evolution of eelgrass meadows along various climate change scenarios.&lt;/p&gt;
 </description>
