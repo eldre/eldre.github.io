@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Curriculum Vitae</title>
-    <link>https://eldre.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Curriculum Vitae</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-GB</language>
-    <copyright>&amp;copy; Elliot Dreujou ({year})</copyright>
-    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://eldre.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>2</title>
-      <link>https://eldre.github.io/publication_types/2/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>7</title>
-      <link>https://eldre.github.io/publication_types/7/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/publication_types/7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>6</title>
-      <link>https://eldre.github.io/publication_types/6/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://eldre.github.io/publication_types/6/</guid>
-      <description></description>
-    </item>
+    <title>Publication_types | Research profile</title>
+    <link>https://eldre.github.io/&#39;/publication_types/</link>
+      <atom:link href="https://eldre.github.io/'/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eldre.github.io/&#39;/media/icon_hu147c6383fcf0be3a6d7028501f0746f8_66621_512x512_fill_lanczos_center_3.png</url>
+      <title>Publication_types</title>
+      <link>https://eldre.github.io/&#39;/publication_types/</link>
+    </image>
     
   </channel>
 </rss>

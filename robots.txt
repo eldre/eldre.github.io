@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://eldre.github.io/%27/sitemap.xml
