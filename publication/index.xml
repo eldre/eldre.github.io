@@ -5,12 +5,20 @@
     <link>https://eldre.github.io/publication/</link>
       <atom:link href="https://eldre.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eldre.github.io/media/icon_hu147c6383fcf0be3a6d7028501f0746f8_66621_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://eldre.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Multiple human activities in coastal benthic ecosystems: Introducing a metric of cumulative exposure</title>
+      <link>https://eldre.github.io/publication/article_2023_elementa/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://eldre.github.io/publication/article_2023_elementa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Holistic environmental monitoring in ports as an opportunity to advance sustainable development, marine science, and social inclusiveness</title>
